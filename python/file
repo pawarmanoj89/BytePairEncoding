@@ -1,0 +1,40 @@
+print ('hi');
+
+  j=i+1
+    #print 'for i=' + str(i)  
+    while x.find(x[i]+x[i+1],j) >0 :
+        j=x.find(x[i]+x[i+1],j)+1
+       # print 'for j=' + str(j)  
+       # print j-1 
+    y[i]=ord(x[i])  
+    print y[i]
+
+      
+      
+      ip==> abcfhjabchjfhjuabcytuyab
+      op==> ?ƒ?‚ƒu?ytuy€
+      129, 131, 129, 130, 131, 117, 129, 121, 116, 117, 121, 128,
+      21/24
+      33/48
+      
+      
+      
+
+print temp.keys()   
+n=len(output)
+print str_ori_len
+print len(output)
+while len(output) < str_ori_len :
+     
+     for i in range(2,n):
+        if output[i]>127 :
+           decompress.append( find_key(temp,output[i])[0] )
+           decompress.append( find_key(temp,output[i])[1] )    
+        else :
+            decompress.append(output[i])   
+     output=decompress
+     n=len(decompress) 
+     print len(output)
+    
+
+print decompres
